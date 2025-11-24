@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:marcoleong1220@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/marco1220"}
-  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/marcoleong1220/"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/marcoleong122\/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
