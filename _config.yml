@@ -1,4 +1,4 @@
-title: "Blog Title"
+title: "Marco's Personal website"
 author: "Blog Author"
 description: "My blog"
 permalink: /:title/
@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "marcoleong1220@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/marco1220"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/marcoleong1220/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
