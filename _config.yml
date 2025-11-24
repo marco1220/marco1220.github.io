@@ -18,8 +18,8 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "Home Page", sidebaricon: home}
-  - {file: "README.md", title: "About me", sidebaricon: address-card}
+  - {file: "/CV.pdf", title: "CV", sidebaricon: home}
+  - {title: "KaoYip Studio", url: "https://sites.google.com/view/kystudio"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:marcoleong1220@gmail.com"}
